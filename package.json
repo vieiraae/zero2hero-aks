@@ -1,0 +1,10 @@
+{
+  "name": "fiscal-number-validator",
+  "version": "1.0.0",
+  "description": "A Node.js web app that validates Portuguese fiscal numbers",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
